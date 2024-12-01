@@ -1,7 +1,7 @@
-import Image from "next/image";
-import Link from "next/link";
 import CraftThumb from "@/public/images/craft-thumb.png";
 import Shape from "@/public/images/footer/shape-one.png";
+import Image from "next/image";
+import Link from "next/link";
 
 const Craft = () => {
   return (

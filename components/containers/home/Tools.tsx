@@ -1,5 +1,5 @@
-import Image from "next/image";
 import ToolsThumb from "@/public/images/tools-thumb.png";
+import Image from "next/image";
 
 const Tools = () => {
   return (
