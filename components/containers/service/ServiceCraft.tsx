@@ -1,6 +1,6 @@
+import Thumb from "@/public/images/home-seven/six.png";
 import Image from "next/image";
 import Link from "next/link";
-import Thumb from "@/public/images/home-seven/six.png";
 
 const ServiceCraft = () => {
   return (
