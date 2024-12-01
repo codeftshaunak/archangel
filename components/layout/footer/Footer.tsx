@@ -1,12 +1,12 @@
 "use client";
-import { useEffect } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 import Image from "next/image";
 import Link from "next/link";
+import ThumbOne from "public/images/craft-thumb.png";
+import ThumbTwo from "public/images/gen-thumb.png";
 import Logo from "public/images/logo.png";
-import ThumbOne from "public/images/footer/footer-thumb-one.png";
-import ThumbTwo from "public/images/footer/footer-thumb-two.png";
+import { useEffect } from "react";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
