@@ -1,21 +1,27 @@
-import one from "@/public/images/category/five.png";
-import two from "@/public/images/category/six.png";
-import three from "@/public/images/category/seven.png";
-import four from "@/public/images/category/eight.png";
-import five from "@/public/images/category/nine.png";
-import six from "@/public/images/category/ten.png";
-import seven from "@/public/images/category/eleven.png";
-import eight from "@/public/images/category/twelve.png";
-import aone from "@/public/images/category/a-five.png";
-import atwo from "@/public/images/category/a-six.png";
-import athree from "@/public/images/category/a-seven.png";
-import afour from "@/public/images/category/a-eight.png";
-import afive from "@/public/images/category/a-nine.png";
-import asix from "@/public/images/category/a-ten.png";
-import aseven from "@/public/images/category/a-eleven.png";
-import aeight from "@/public/images/category/a-twelve.png";
+import { default as aeight, default as afive, default as afour, default as aone, default as aseven, default as asix, default as athree, default as atwo } from "@/public/images/category/a-seven.png";
 import chat from "@/public/images/category/chat.png";
+import { default as four, default as seven, default as two } from "@/public/images/category/eight.png";
 import mid from "@/public/images/category/mid.png";
+import { default as eight, default as five, default as one } from "@/public/images/category/nine.png";
+import { default as six, default as three } from "@/public/images/category/seven.png";
+// import one from "@/public/images/category/five.png";
+// import two from "@/public/images/category/six.png";
+// import three from "@/public/images/category/seven.png";
+// import four from "@/public/images/category/eight.png";
+// import five from "@/public/images/category/nine.png";
+// import six from "@/public/images/category/ten.png";
+// import seven from "@/public/images/category/eleven.png";
+// import eight from "@/public/images/category/twelve.png";
+// import aone from "@/public/images/category/a-five.png";
+// import atwo from "@/public/images/category/a-six.png";
+// import athree from "@/public/images/category/a-seven.png";
+// import afour from "@/public/images/category/a-eight.png";
+// import afive from "@/public/images/category/a-nine.png";
+// import asix from "@/public/images/category/a-ten.png";
+// import aseven from "@/public/images/category/a-eleven.png";
+// import aeight from "@/public/images/category/a-twelve.png";
+// import chat from "@/public/images/category/chat.png";
+// import mid from "@/public/images/category/mid.png";
 
 export const categoryProductsData = [
   {
