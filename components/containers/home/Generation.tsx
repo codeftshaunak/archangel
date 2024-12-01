@@ -1,5 +1,5 @@
-import Image from "next/image";
 import GenThumb from "@/public/images/gen-thumb.png";
+import Image from "next/image";
 
 const Generation = () => {
   return (
