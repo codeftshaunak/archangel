@@ -1,6 +1,6 @@
+import unlockThumb from "@/public/images/unlock-thumb.png";
 import Image from "next/image";
 import Link from "next/link";
-import unlockThumb from "@/public/images/unlock-thumb.png";
 
 const UnlockSection = () => {
   return (
